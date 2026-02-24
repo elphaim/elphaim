@@ -1,6 +1,6 @@
 # Hi, I'm elphaim
 
-I have a PhD in theoretical physics and am currently interested in the intersection of machine learning and scientific research.
+PhD in theoretical physics and currently interested in the intersection of machine learning and scientific research
 
 ## Projects
 
